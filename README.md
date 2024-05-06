@@ -14,28 +14,17 @@ With a great thirst for knowledge and willing to teach everything I know to othe
 *Currently specializing in Go lang.* 👨🏻‍💻
 
 📱 *Mobile*
-- **Flutter** && **Dart**
-- **IOS** **&& Swift** **&& SwiftUI**
-- **Andorid** && **Kotlin**
+- **Flutter** && **Dart**, **IOS** **&& Swift** **&& SwiftUI**, **Andorid** && **Kotlin**
 
 👨🏻‍💻 *Backend*
-- **Go Lang**
-- **NestJS**
-- **Node**
-- **Typescript**
+- **Go Lang**, **NestJS**, **Node**, **Typescript**
 
 💻 *Web*
-- **React.js**
-- **Flutter Web**
+- **React.js**, **Flutter Web**
 
 ⚙️ *Infra*
-- **AWS**
-- **Google Cloud**
+- **AWS**, **Google Cloud**
 
 🔵 *Others*
-- **Codeamgic**
-- **Firebase**
-- **GitHub** (CI/CD, Actions)
-- **GitLab** (CI/CD, Actions)
-- **Bitbucket** (CI/CD, Actions)
+- **Codeamgic**, **Firebase**, **GitHub** (CI/CD, Actions), **GitLab** (CI/CD, Actions), **Bitbucket** (CI/CD, Actions)
 
