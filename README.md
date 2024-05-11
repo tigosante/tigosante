@@ -13,7 +13,7 @@ With a great thirst for knowledge and willing to teach everything I know to othe
 <br>
 *Currently specializing in Go lang.* 👨🏻‍💻
 
-- 📱 *Mobile:* **Flutter** - **Dart** | **IOS** **Swift** - **SwiftUI** | **Andorid** - **Kotlin**
+- 📱 *Mobile:* **Flutter** - **Dart** | **IOS** - **Swift** - **SwiftUI** | **Andorid** - **Kotlin**
 - 👨🏻‍💻 *Backend:* **Go Lang** | **NestJS** | **Node** | **Typescript**
 - 💻 *Web:* **React.js** | **Flutter Web**
 - ⚙️ *Infra:* **AWS** | **Google Cloud**
