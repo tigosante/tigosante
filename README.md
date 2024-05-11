@@ -1,9 +1,9 @@
 # Hi, I'm Tiago! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 <br>
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/joaopaulolndev)](https://github.com/tigosante)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaopaulolndev/)](https://www.linkedin.com/in/tigosante/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://github.com/joaopaulolndev)](https://www.instagram.com/tigosante/)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/joaopaulolndev)](https://github.com/tigosante){:target="_blank"}
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaopaulolndev/)](https://www.linkedin.com/in/tigosante/){:target="_blank"}
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://github.com/joaopaulolndev)](https://www.instagram.com/tigosante/){:target="_blank"}
 <br>
 <br>
 
