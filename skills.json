@@ -1,0 +1,196 @@
+{
+  "languages": [
+    {
+      "name": "Dart",
+      "logo": "https://drive.google.com/file/d/1REsIPub4aUy6DJM1t4tiBUCB6PXqakoV/view",
+      "color": "#205c9a",
+      "start_work": "2019"
+    },
+    {
+      "name": "JavaScript",
+      "logo": "https://drive.google.com/file/d/1kefv7UeqXjZ7k4EY7jgP49DnVMcZ7I6V/view",
+      "color": "#f7df1e",
+      "start_work": "2020"
+    },
+    {
+      "name": "TypeScript",
+      "logo": "https://drive.google.com/file/d/1Vcl7YkKAQqw1JjrqYL8ahloMEsY7JrzY/view",
+      "color": "#287acb",
+      "start_work": "2020"
+    },
+    {
+      "name": "PHP",
+      "logo": "https://drive.google.com/file/d/1JsV5S7cYCtHU5Gk4Km4UvvMXXpqgPCAg/view",
+      "color": "#8991bc",
+      "start_work": "2019"
+    },
+    {
+      "name": "kotlin",
+      "logo": "https://drive.google.com/file/d/1iiEpdHg01zSRRX32PkipfLA0L8qmOlC3/view",
+      "color": "#4d83ba",
+      "start_work": "2022"
+    },
+    {
+      "name": "Swift",
+      "logo": "https://drive.google.com/file/d/1LAXRzK60bNUdikVce4331kEPIl6vbVx5/view",
+      "color": "#f76e37",
+      "start_work": "2022"
+    },
+    {
+      "name": "Go",
+      "logo": "https://drive.google.com/file/d/1I_yYF85x60gMSiRKODYYaUJGkh02e9d0/view",
+      "color": "#36abd9",
+      "start_work": "2024"
+    }
+  ],
+  "frameworks": [
+    {
+      "name": "Flutter",
+      "logo": "https://drive.google.com/file/d/19pwkRP48j6abXImFa50CbJevxT5PG1De/view",
+      "color": "#205c9a",
+      "start_work": "2019"
+    },
+    {
+      "name": "React Web",
+      "logo": "https://drive.google.com/file/d/1TBLzlhiXBOtRWFojurt00qJwARq2TpNb/view",
+      "color": "#44d4ff",
+      "start_work": "2020"
+    },
+    {
+      "name": "NestJS",
+      "logo": "https://drive.google.com/file/d/17MoFIjuN5qyNFGggfpYc9q89y0q16oJx/view",
+      "color": "#e0234e",
+      "start_work": "2021"
+    },
+    {
+      "name": "NodeJS",
+      "logo": "https://drive.google.com/file/d/14tBNcU9nB8ZNfIFMmFLwiHq9W5U6Aw8S/view",
+      "color": "#51a33d",
+      "start_work": "2020"
+    }
+  ],
+  "databases": [
+    {
+      "name": "Oracle SQL",
+      "logo": "https://drive.google.com/file/d/1SrLbihzePG1kb2Wps0rdgo69wafpk424/view",
+      "color": "#ed181f",
+      "start_work": "2019"
+    },
+    {
+      "name": "My SQL",
+      "logo": "https://drive.google.com/file/d/1Rb1VrN3nEbJaKeKETdJ2asFmQHJLM_vL/view",
+      "color": "#f0931d",
+      "start_work": "2021"
+    },
+    {
+      "name": "Postgres SQL",
+      "logo": "https://drive.google.com/file/d/1hXTyDF2Pxa5SRkqKEPNfGDMfSCU_ivI6/view",
+      "color": "#32678e",
+      "start_work": "2021"
+    },
+    {
+      "name": "Mongo DB",
+      "logo": "https://drive.google.com/file/d/14-91V_XGmeRjPAhfIN3LX7hwA4Qr6laK/view",
+      "color": "#97af00",
+      "start_work": "2022"
+    },
+    {
+      "name": "Firestore DB",
+      "logo": "https://drive.google.com/file/d/1ZBBOV_V_gzxL-N3Vas1-lpMfgj83Whs8/view",
+      "color": "#fac940",
+      "start_work": "2021"
+    }
+  ],
+  "ORM": [
+    {
+      "name": "TypeORM",
+      "logo": "https://drive.google.com/file/d/12cY5n8folFcHmJt2Q_BR5WxZMIogsNDg/view",
+      "color": "#f60a02",
+      "start_work": "2021"
+    },
+    {
+      "name": "Prisma",
+      "logo": "https://drive.google.com/file/d/1J2jGV6x0U2K-_9Xg5dhAmVcNV0vWB5cX/view",
+      "color": "#0d344c",
+      "start_work": "2021"
+    }
+  ],
+  "platforms": [
+    {
+      "name": "Android",
+      "logo": "https://drive.google.com/file/d/1q9l5aRejuFelraOKr_YDAm6mgFGrVvpA/view",
+      "color": "#40dd80",
+      "start_work": "2021"
+    },
+    {
+      "name": "iOS",
+      "logo": "https://drive.google.com/file/d/10KJh15Q5Kync5gIsTWD7af9wDVy0C9d1/view",
+      "color": "#020202",
+      "start_work": "2021"
+    }
+  ],
+  "design": [
+    {
+      "name": "Figma",
+      "logo": "https://drive.google.com/file/d/1B5EeV4KuBJTu059r1rPwLdOPl1l8FfaF/view",
+      "color": "#ef4f1d",
+      "start_work": "2021"
+    }
+  ],
+  "cloud": [
+    {
+      "name": "AWS",
+      "logo": "https://drive.google.com/file/d/1T_jBzUkxECFTgZ3RjiRlBQ4C-_mbIqFw/view",
+      "color": "#f09402",
+      "start_work": "2021"
+    },
+    {
+      "name": "Google Cloud",
+      "logo": "https://drive.google.com/file/d/1_y__BSOUKoFyKC3nYILbtfSIJnAg_z9D/view",
+      "color": "#4385f5",
+      "start_work": "2022"
+    }
+  ],
+  "repository": [
+    {
+      "name": "Bitbucket",
+      "logo": "https://drive.google.com/file/d/1_Lo9qQidWI8nteHoheu3N2j1BBv0xF-X/view",
+      "color": "#3084fc",
+      "start_work": "2021"
+    },
+    {
+      "name": "GitHub",
+      "logo": "https://drive.google.com/file/d/1t5eJjgbfRjCIpLddYGs-p2dN5qnKLni5/view",
+      "color": "#261f22",
+      "start_work": "2018"
+    },
+    {
+      "name": "GitLab",
+      "logo": "https://drive.google.com/file/d/1XK0xwIuQn7TI2o_sL_P8tvHi7VDumtmh/view",
+      "color": "#e44329",
+      "start_work": "2019"
+    }
+  ],
+  "CI/CD": [
+    {
+      "name": "Codemagic",
+      "logo": "https://drive.google.com/file/d/1bJaFpmjJwKOBdq3IyLgi-HH9kRcCZZA1/view",
+      "color": "#ea2039",
+      "start_work": "2021"
+    }
+  ],
+  "tools": [
+    {
+      "name": "Fireabase",
+      "logo": "https://drive.google.com/file/d/14wQ2z8IYproCHgPGPJawYO8FLCH2LqT4/view",
+      "color": "#fac940",
+      "start_work": "2019"
+    },
+    {
+      "name": "Jira",
+      "logo": "https://drive.google.com/file/d/1GUUsUmaTwLvOh3tV_6vVaGmRO9bMRhZ7/view",
+      "color": "#2f83ff",
+      "start_work": "2020"
+    }
+  ]
+}
