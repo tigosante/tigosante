@@ -13,7 +13,7 @@ With a great thirst for knowledge and willing to teach everything I know to othe
 *Currently specializing in iOS SwiftUI.* 👨🏻‍💻
 
 - 📱 *Mobile:* **Flutter** - **Dart** | **IOS** - **Swift** - **SwiftUI** | **Andorid** - **Kotlin**
-- 👨🏻‍💻 *Backend:* **Go Lang** | **NestJS** | **Node** | **Typescript**
+- 👨🏻‍💻 *Backend:* **Node** | **NestJS** | **Typescript**
 - 💻 *Web:* **React.js** | **Flutter Web**
 - ⚙️ *Infra:* **AWS** | **Google Cloud**
 - 🔵 *Others:* **Codeamgic** | **Firebase** | **GitHub** (CI/CD, Actions) | **GitLab** (CI/CD, Actions) | **Bitbucket** (CI/CD, Actions)
