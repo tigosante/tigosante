@@ -3,7 +3,6 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/joaopaulolndev)](https://github.com/tigosante)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaopaulolndev/)](https://www.linkedin.com/in/tigosante/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://github.com/joaopaulolndev)](https://www.instagram.com/tigosante/)
 <br>
 <br>
 
