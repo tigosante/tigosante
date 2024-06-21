@@ -10,7 +10,7 @@
 
 With a great thirst for knowledge and willing to teach everything I know to others. 🧠
 <br>
-*Currently specializing in Go lang.* 👨🏻‍💻
+*Currently specializing in iOS SwiftUI.* 👨🏻‍💻
 
 - 📱 *Mobile:* **Flutter** - **Dart** | **IOS** - **Swift** - **SwiftUI** | **Andorid** - **Kotlin**
 - 👨🏻‍💻 *Backend:* **Go Lang** | **NestJS** | **Node** | **Typescript**
